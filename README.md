@@ -1,6 +1,6 @@
 
 # v1per-necklace
-I love jewelery!!! So why not have a PCB piece of jewelery; that's what led me to this! :) I made a necklace with LEDs and that is powered by a battery!
+I love jewelry!!! So why not have a PCB piece of jewelry; that's what led me to this! :) I made a necklace with LEDs and that is powered by a battery!
 ![image](https://github.com/user-attachments/assets/acb3c859-571f-43fb-a02c-6abb1a72ea04)
 ![Screenshot 2025-06-13 014919](https://github.com/user-attachments/assets/7f6125af-9304-4c69-ae3f-805ac8aca6b4)
 ![Screenshot 2025-06-13 014949](https://github.com/user-attachments/assets/070019fa-e430-4531-9e3a-3624afa71e44)
